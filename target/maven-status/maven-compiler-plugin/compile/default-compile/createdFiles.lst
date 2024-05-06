@@ -1,0 +1,10 @@
+com/firstHelp/demo/model/NewsSource.class
+com/firstHelp/demo/service/NewsService.class
+com/firstHelp/demo/service/CacheStatisticsMonitor.class
+com/firstHelp/demo/FirstHelpApplication.class
+com/firstHelp/demo/config/cache/CachingConfig.class
+com/firstHelp/demo/controllers/NewsController.class
+com/firstHelp/demo/model/Article.class
+com/firstHelp/demo/model/AllArticles.class
+com/firstHelp/demo/config/NewsServiceConfig.class
+com/firstHelp/demo/model/NewsResponse.class
