@@ -52,5 +52,5 @@ Copy code
 GET /articles/author/{author}
 Replace <keyword>, <title>, and <author> with the desired search criteria.
 
-Caching
+Caching:
 The application uses Caffeine for caching to improve performance by reducing the number of API requests made to the news API. Cached data is stored in memory and expires after a certain period of time.
